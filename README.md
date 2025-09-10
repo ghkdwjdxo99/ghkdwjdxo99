@@ -26,7 +26,31 @@
 
 **사용 기술**
 
-C, STM32, Raspberry Pi 4, Arduino, MariaDB
+C, STM32, Raspberry Pi 4, Arduino, MariaDB, Bluetooth, WiFi, TCP/IP
+
+---
+
+[신호등 (대한상공회의소)](https://github.com/ghkdwjdxo99/STM32_traffic_light)
+
+**프로젝트 설명**
+
+점등 주기와 밝기가 조절되는 신호등
+
+**사용 기술**
+
+C, STM32, STM32CubeIDE, HAL Drive, PWM, Timer, Interrupt, ADC
+
+---
+
+[LED & Button 제어 Device Driver 제작 (대한상공회의소) (노션)](https://www.notion.so/LED-and-Button-25ecc4afbf74800a9fa0ecb6a2d62e30?source=copy_link)
+
+**프로젝트 설명**
+
+Button으로 LED의 상태를 제어할 수 있는 Device Driver 제작
+
+**사용 기술**
+
+C, STM32, STM32CubeIDE, HAL Drive, PWM, Timer, Interrupt, ADC
 
 ---
 
