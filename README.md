@@ -14,6 +14,16 @@
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
 </p>
 
+
+
+## 주요 프로젝트
+
+- [스마트 케이지](https://github.com/ghkdwjdxo99/Smart_Cage)
+- [테트리스](https://buly.kr/1uwGhX)
+- [다중 채팅 시스템](https://buly.kr/9iGcDaW)
+- [중국 비자 발급 서류 자동화 프로그램 제작](https://buly.kr/GE8eVmt)
+
+
 ## 연락처
 📧 ghkdwjdxo99@naver.com
 
