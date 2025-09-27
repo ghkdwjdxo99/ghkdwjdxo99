@@ -15,6 +15,30 @@
 
 ## 주요 프로젝트
 
+[조각조각 (대한상공회의소)](https://github.com/ghkdwjdxo99/Intel_7_openCV_project)
+
+**프로젝트 설명**
+
+자신이 원하는 이미지로 5*5 / 8*8 사이즈의 퍼즐을 제작해 플레이할 수 있는 퍼즐 게임
+
+**사용 기술**
+
+OpenCV, Qt(C++)
+
+---
+
+[스트릿 릴스 파이터 (스릴파) (대한상공회의소)](https://github.com/ghkdwjdxo99/Intelproject5_Street_Reels_Fighter)
+
+**프로젝트 설명**
+
+릴스에서 유행하는 춤을 Pose Estimation을 통해 연습 및 대결할 수 있게 하는 기능을 제공하는 게임 시스템
+
+**사용 기술**
+
+YOLOv8-Pose, STM32, Qt(Python), qml, C
+
+---
+
 [스마트 케이지 (대한상공회의소)](https://github.com/ghkdwjdxo99/Smart_Cage)
 
 **프로젝트 설명**
