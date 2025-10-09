@@ -23,7 +23,8 @@
 
 **사용 기술**
 
-OpenCV, Qt(C++)
+- OpenCV
+- Qt(C++)
 
 ---
 
@@ -35,7 +36,11 @@ OpenCV, Qt(C++)
 
 **사용 기술**
 
-YOLOv8-Pose, STM32, Qt(Python), qml, C
+- YOLOv8-Pose
+STM32
+- Qt(Python)
+- qml
+- C
 
 ---
 
@@ -47,7 +52,14 @@ YOLOv8-Pose, STM32, Qt(Python), qml, C
 
 **사용 기술**
 
-C, STM32, Raspberry Pi 4, Arduino, MariaDB, Bluetooth, WiFi, TCP/IP
+- C
+- STM32
+- Raspberry Pi 4
+- Arduino
+- MariaDB
+- Bluetooth
+- WiFi
+- TCP/IP
 
 ---
 
@@ -59,7 +71,14 @@ C, STM32, Raspberry Pi 4, Arduino, MariaDB, Bluetooth, WiFi, TCP/IP
 
 **사용 기술**
 
-C, STM32, STM32CubeIDE, HAL Drive, PWM, Timer, Interrupt, ADC
+- C
+- STM32
+- STM32CubeIDE
+- HAL Drive
+- PWM
+- Timer
+- Interrupt
+- ADC
 
 ---
 
@@ -71,7 +90,14 @@ Button으로 LED의 상태를 제어할 수 있는 Device Driver 제작
 
 **사용 기술**
 
-C, STM32, STM32CubeIDE, HAL Drive, PWM, Timer, Interrupt, ADC
+- C
+- STM32
+- STM32CubeIDE
+- HAL Drive
+- PWM
+- Timer
+- Interrupt
+- ADC
 
 ---
 
@@ -83,7 +109,13 @@ C, STM32, STM32CubeIDE, HAL Drive, PWM, Timer, Interrupt, ADC
 
 **사용 기술**
 
-Python, TPC/IP, GPT API, Google Vision OCR, PyQt5, Selenium, FTP
+- Python
+- TPC/IP
+- GPT API
+- Google Vision OCR
+- PyQt5
+- Selenium
+- FTP
 
 ---
 
@@ -95,7 +127,9 @@ Python, TPC/IP, GPT API, Google Vision OCR, PyQt5, Selenium, FTP
 
 **사용 기술**
 
-C, Thread, Mutex
+- C
+- Thread
+- Mutex
 
 ---
 
@@ -107,7 +141,8 @@ C, Thread, Mutex
 
 **사용 기술**
 
-C, TCP/IP
+- C
+- TCP/IP
 
 ---
 
